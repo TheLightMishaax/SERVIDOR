@@ -1,5 +1,4 @@
-TO DO LIST
-<!DOCTYPE html>
+
 <html lang="es">
 
 <head>
