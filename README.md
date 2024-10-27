@@ -33,6 +33,8 @@
                 </div>
             </div>
         </div>
+<!DOCTYPE html>
+<html lang="es">
 
         <center>
             <table id="tabla" class="table table-striped">
