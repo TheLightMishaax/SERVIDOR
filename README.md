@@ -1,4 +1,4 @@
-<!doctype hmtl>
+<!doctype html>
 <html lang="es">
 
 <head>
