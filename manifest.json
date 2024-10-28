@@ -1,0 +1,15 @@
+{
+    "short_name": "Offline App",
+    "name": "Offline App",
+    "description": "Esta es una aplicación Offline instalable, una PWA",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "assets/image/icon-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "theme_color": "#3F51B5"
+}
