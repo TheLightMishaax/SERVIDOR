@@ -1,38 +1,39 @@
 {
-    "short_name": "Offline App",
+    "short_name": "PWA",
     "name": "Offline App",
     "description": "Esta es una aplicación Offline instalable, una PWA",
     "display": "standalone",
-    "start_url": ".",
+    "scope":"./",
+    "start_url": "./",
     "theme_color": "#3F51B5",
     "background_color": "#FFFFFF",
     "icons": [
         {
-            "src": "assets/image/solicitud.png",
+            "src": "./solicitud.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "assets/image/television-inteligente.png",
+            "src": "./television-inteligente.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "screenshots": [
         {
-            "src": "assets/image/screenshot1.png",
+           "src": "./screenshot1.png",
             "sizes": "1280x720",
             "type": "image/png",
             "form_factor": "wide"
         },
         {
-            "src": "assets/image/screenshot2.png",
+           "src": "./screenshot2.png",
             "sizes": "720x1280",
             "type": "image/png",
             "form_factor": "narrow"
         },
         {
-            "src": "assets/image/screenshot3.png",
+            "src": "./screenshot3.png",
             "sizes": "1440x900",
             "type": "image/png",
             "form_factor": "wide"
