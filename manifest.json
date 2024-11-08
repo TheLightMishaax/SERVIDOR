@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/SERVIDOR/icons/actualizar.png",
+      "src": "/SERVIDOR/icons/actualizar.jpg",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/SERVIDOR/icons/ajustes.png",
+      "src": "/SERVIDOR/icons/ajustes.jpg",
       "sizes": "72x72",
       "type": "image/png"
     },
