@@ -9,45 +9,45 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://thelightmishaax.github.io/icons/actualizar.png",
+      "src": "SERVIDOR/icons/actualizar.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "https://thelightmishaax.github.io/icons/ajustes.png",
+      "src": "SERVIDOR/icons/ajustes.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://thelightmishaax.github.io/icons/comprobacion.png",
+      "src": "SERVIDOR/icons/comprobar.jpg",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://thelightmishaax.github.io/icons/controlar.png",
+      "src": "SERVIDOR/icons/controlar.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://thelightmishaax.github.io/icons/descargar.png",
+      "src": "SERVIDOR/icons/descargar.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://thelightmishaax.github.io/icons/mas.png",
+      "src": "SERVIDOR/icons/mas.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "screenshots": [
     {
-      "src": "https://thelightmishaax.github.io/icons/wide.png",
+      "src": "SERVIDOR/icons/wide.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "https://thelightmishaax.github.io/icons/mobile.png",
+      "src": "SERVIDOR/icons/mobile.png",
       "sizes": "640x960",
       "type": "image/png"
     }
