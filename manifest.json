@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/index.html/icons/actualizar.png",
+      "src": "/SERVIDOR/icons/actualizar.png",
       "sizes": "48x48",
       "type": "image/png"
     },
