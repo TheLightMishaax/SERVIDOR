@@ -24,17 +24,17 @@
       "type": "image/jpg"
     },
     {
-      "src": "/SERVIDOR/icons/controlar.png",
+      "src": "/SERVIDOR/icons/controlar.jpg",
       "sizes": "144x144",
       "type": "image/jpg"
     },
     {
-      "src": "/SERVIDOR/icons/descargar.png",
+      "src": "/SERVIDOR/icons/descargar.jpg",
       "sizes": "192x192",
       "type": "image/jpg"
     },
     {
-      "src": "/SERVIDOR/icons/mas.png",
+      "src": "/SERVIDOR/icons/mas.jpg",
       "sizes": "512x512",
       "type": "image/jpg"
     }
