@@ -1,5 +1,5 @@
 // Nombre del caché
-const CACHE_NAME = 'offline-cache-v2';
+const CACHE_NAME = 'offline-cache-v3';
 
 // Archivos que se deben almacenar en caché
 const FILES_TO_CACHE = [
