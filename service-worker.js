@@ -1,11 +1,11 @@
 // Nombre del caché
-const CACHE_NAME = 'offline-cache-v3';
+const CACHE_NAME = 'offline-cache-v4';
 
 // Archivos que se deben almacenar en caché
 const FILES_TO_CACHE = [
-    '/',
-    '/index.html',
-    '/manifest.json',
+    '/SERVIDOR/',
+    '/SERVIDOR/index.html',
+    '/SERVIDOR/manifest.json',
     '/SERVIDOR/icons/actualizar.jpg',
     '/SERVIDOR/icons/ajustes3.jpg',
     '/SERVIDOR/icons/comprobar.jpg',
@@ -24,6 +24,9 @@ self.addEventListener('install', (event) => {
         caches.open(CACHE_NAME)
             .then((cache) => {
                 return cache.addAll(FILES_TO_CACHE);
+            })
+            .catch((error) => {
+                console.error('Error al agregar archivos al caché:', error);
             })
     );
     self.skipWaiting();
@@ -52,6 +55,6 @@ self.addEventListener('fetch', (event) => {
             .then((response) => {
                 return response || fetch(event.request);
             })
-            .catch(() => caches.match('/index.html'))
+            .catch(() => caches.match('/SERVIDOR/index.html'))
     );
 });
