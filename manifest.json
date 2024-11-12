@@ -8,48 +8,47 @@
   "theme_color": "#4CAF50",
   "orientation": "portrait",
   "icons": [
-    {
-      "src": "/SERVIDOR/icons/actualizar.jpg",
-      "sizes": "48x48",
-      "type": "image/jpg"
-    },
-    {
-      "src": "/SERVIDOR/icons/ajustes3.jpg",
-      "sizes": "72x72",
-      "type": "image/jpg"
-    },
-    {
-      "src": "/SERVIDOR/icons/comprobar.jpg",
-      "sizes": "96x96",
-      "type": "image/jpg"
-    },
-    {
-      "src": "/SERVIDOR/icons/controlar.jpg",
-      "sizes": "144x144",
-      "type": "image/jpg"
-    },
-    {
-      "src": "/SERVIDOR/icons/descargar.jpg",
-      "sizes": "192x192",
-      "type": "image/jpg"
-    },
-    {
-      "src": "/SERVIDOR/icons/mas.jpg",
-      "sizes": "512x512",
-      "type": "image/jpg"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/SERVIDOR/icons/desktop.png",
-      "sizes": "1280x720",
-      "type": "image/jpg",
-      "form_factor": "wide"
-    },
-    {
-      "src": "/SERVIDOR/icons/mobile.png",
-      "sizes": "640x960",
-      "type": "image/jpg"
-    }
-  ]
-}
+  {
+    "src": "/icons/actualizar.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  },
+  {
+    "src": "/icons/ajustes3.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  },
+  {
+    "src": "/icons/comprobar.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  },
+  {
+    "src": "/icons/controlar.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  },
+  {
+    "src": "/icons/descargar.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  },
+  {
+    "src": "/icons/mas.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }
+],
+"screenshots": [
+  {
+    "src": "/icons/desktop.png",
+    "sizes": "1280x720",
+    "type": "image/jpg",
+    "form_factor": "wide"
+  },
+  {
+    "src": "/icons/mobile.png",
+    "sizes": "640x960",
+    "type": "image/jpg"
+  }
+]
