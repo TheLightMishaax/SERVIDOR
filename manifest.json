@@ -2,7 +2,7 @@
   "name": "To Do List",
   "short_name": "ToDo",
   "description": "Aplicación de lista de tareas",
-  "start_url": "/SERVIDOR",
+  "start_url": "./SERVIDOR",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#4CAF50",
